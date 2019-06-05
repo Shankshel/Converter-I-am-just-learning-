@@ -1,8 +1,8 @@
 # Converter (# I am just learning)
 
-# Write currency converter rubles-dollars: program,
-# that asks a course, then asks the user,
-# how many rubles he has, and then gives the result in dollars
+Write currency converter rubles-dollars: program,
+that asks a course, then asks the user,
+how many rubles he has, and then gives the result in dollars
 
 puts "# converter"
 
