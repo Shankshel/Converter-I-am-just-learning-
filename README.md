@@ -1,4 +1,4 @@
-# Converter (# I am just learning)
+## Converter (# I am just learning)
 
 Write currency converter rubles-dollars: program,
 that asks a course, then asks the user,
