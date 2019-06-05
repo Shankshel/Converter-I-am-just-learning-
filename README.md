@@ -4,6 +4,7 @@ Write currency converter rubles-dollars: program,
 that asks a course, then asks the user,
 how many rubles he has, and then gives the result in dollars
 
+```
 puts "# converter"
 
 currency = [
@@ -38,7 +39,6 @@ end
 arr = ""
 arr << currency_ratio[user - 1].split.join(', ')
 
-```
 if arr[0] == "р" && arr[-1] == "у"
 	puts "Вы хотите узнать соотношение рубля к доллару?"
 	print "Введите пожалуйста сегодняшний курс доллара: "
